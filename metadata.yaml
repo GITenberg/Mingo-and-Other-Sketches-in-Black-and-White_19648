@@ -1,0 +1,31 @@
+_repo: Mingo-and-Other-Sketches-in-Black-and-White_19648
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harris, Joel Chandler
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '868'
+    url: http://www.gutenberg.org/2009/agents/868
+    wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
+description: 'Mingo: a sketch of life in middle Georgia. -- At Teague Poteet''s: a
+  sketch of the Hog mountain range. -- Blue Dave. -- A piece of land.'
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2006-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Georgia -- Social life and customs -- Fiction'
+tableOfContents: 'Mingo: a sketch of life in middle Georgia -- At Teague Poteet''s:
+  a sketch of the Hog Mountain Range -- A piece of land -- Blue Dave.'
+title: Mingo, and Other Sketches in Black and White
+url: http://www.gutenberg.org/ebooks/19648
