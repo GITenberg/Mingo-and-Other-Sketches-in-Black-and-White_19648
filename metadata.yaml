@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
 description: 'Mingo: a sketch of life in middle Georgia. -- At Teague Poteet''s: a
   sketch of the Hog mountain range. -- Blue Dave. -- A piece of land.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19648#Mingo-and-Other-Sketches-in-Black-and-White
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2006-10-28'
 gutenberg_type: Text
